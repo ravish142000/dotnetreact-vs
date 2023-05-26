@@ -1,0 +1,2 @@
+C:\Users\LENOVO\Desktop\react-dotnet1\Solution1\reactapp\obj\Debug\reactapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\react-dotnet1\Solution1\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
